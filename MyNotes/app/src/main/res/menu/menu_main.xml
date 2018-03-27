@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.saloni.mynotes.MainActivity">
+    <item
+        android:id="@+id/my_switch"
+        app:showAsAction="always"
+        app:actionLayout="@layout/use_switch"
+        android:title="Add" />
+
+</menu>

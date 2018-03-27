@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e4a3d4</color>
+    <color name="colorPrimaryDark">#e4a3d4</color>
+    <color name="colorAccent">#fdfcff</color>
+    <color name="isw_defaultBg">#302F31</color>
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#e4a3d4</color>
+    <color name="list_item_selected_state">#9c0f1010</color>
+    <color name="list_item_normal_state">#FFFFFF</color>
+</resources>
